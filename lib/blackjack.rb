@@ -67,7 +67,3 @@ def runner
   hit? 
   invalid_command
 end
-
-runner
-    
-end
